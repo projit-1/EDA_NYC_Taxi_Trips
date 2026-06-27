@@ -113,7 +113,7 @@ NYC-Taxi-EDA/
 
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/yourusername/NYC-Taxi-EDA.git
+git clone https://github.com/projit-1/NYC-Taxi-EDA.git
 Install dependencies
 pip install pandas numpy matplotlib pyarrow missingno
 Launch Jupyter Notebook
